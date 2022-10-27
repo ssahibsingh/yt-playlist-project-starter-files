@@ -4,13 +4,13 @@
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
-    "googleapis": "^108.0.1"
+    "googleapis": "^108.0.1",
+    "moment": "^2.29.4"
   },
   "name": "yt-playlist-length-calculator",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
